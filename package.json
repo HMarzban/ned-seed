@@ -1,8 +1,21 @@
 {
   "name": "ned-seed",
-  "version": "0.4.0",
+  "version": "0.6.0",
+  "description": "Ned library starter pack",
+  "index": "./app.js",
   "scripts": {
     "start": "nodemon ./app.js"
+  },
+  "keywords": [
+    "spa",
+    "ned",
+    "module",
+    "component"
+  ],
+  "homepage": "https://github.com/HosseinMarzban/ned",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HosseinMarzban/ned-seed"
   },
   "dependencies": {},
   "devDependencies": {
