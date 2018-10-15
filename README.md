@@ -11,6 +11,8 @@ It gives your application Component and Module features for longer maintainable 
  3. `npm start`
 
 #### Quick Links
-- <a href="https://github.com/HosseinMarzban/ned">ned</a>
-- <a href="https://github.com/HosseinMarzban/ned-cli">ned-cli</a>
-- <a href="https://github.com/HosseinMarzban/ned-seed">ned-seed</a>
+- <a target="_blank"  href="https://github.com/HosseinMarzban/ned">ned</a>
+- <a target="_blank"  href="https://github.com/HosseinMarzban/ned-cli">ned-cli</a>
+- <a target="_blank"  href="https://github.com/HosseinMarzban/tscw">tscw-cli</a>
+- <a target="_blank"  href="https://github.com/HosseinMarzban/ned-seed">ned-seed</a>
+- <a target="_blank" href="https://github.com/HosseinMarzban/ned-shards-dashboard-lite"> Ned Shards Dashboard Lite </a>
